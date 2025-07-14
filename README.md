@@ -7,6 +7,9 @@ This is a Streamlit app that uses Google Gemini (Generative AI) to provide feedb
 - Enter your interview answer and get instant AI-powered feedback.
 - Uses Google Gemini API for natural language analysis.
 
+## Screenshots
+![App Screenshot](screenshots/zephyr3.png)
+
 ## Setup
 
 1. Clone this repository.
