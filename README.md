@@ -29,10 +29,8 @@ This is a Streamlit app that uses Google Gemini (Generative AI) to provide feedb
    ```
 
 ## Notes
-
-- **Never share your `.env` file or API keys publicly.**
+- If the API isnt working, try creating api key of your own.
 - Free Gemini API usage is subject to Google’s quota limits.
 
 ---
 
-Let me know if you want to customize these files further!
