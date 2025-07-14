@@ -1,0 +1,5 @@
+{
+  "HR": ["Tell me about yourself", "Why should we hire you?", "What are your strengths and weaknesses?"],
+  "Tech": ["What is OOP?", "Explain REST API, what is it used for?", "What is the difference between SQL and NoSQL?"],
+  "Behavioral": ["Describe a failure and how you overcame it, what did you learn?", "How do you handle stress and pressure?", "Give an example of a goal you reached and how you achieved it."]
+}
