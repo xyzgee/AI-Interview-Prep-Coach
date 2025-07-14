@@ -9,6 +9,7 @@ This is a Streamlit app that uses Google Gemini (Generative AI) to provide feedb
 
 ## Screenshots
 ![App Screenshot](screenshots/zephyr3.png)
+![App Screenshot](screenshots/zephyr4.png)
 
 ## Setup
 
