@@ -1,4 +1,4 @@
-# AI Interview Coach
+# Zephyr - AI Interview Coach
 
 This is a Streamlit app that uses Google Gemini (Generative AI) to provide feedback on interview answers.
 
